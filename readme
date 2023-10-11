@@ -1,0 +1,7 @@
+Requirement 
+-->node js v18
+-->Xampp install 
+1)Download the zip 
+2)after download , in that folder cmd run "npm install"
+3)create a database name with taskmanagement (please verify with .env) in xampp
+4)now start command "npm start"
